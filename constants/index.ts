@@ -49,55 +49,55 @@ export const podcastData = [
     title: "The Joe Rogan Experience",
     description: "A long form, in-depth conversation",
     imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/3106b884-548d-4ba0-a179-785901f69806",
+      "https://i.scdn.co/image/ab67656300005f1f94dc3b5af1868137c5f43f3e",
   },
   {
     id: 2,
     title: "The Futur",
     description: "This is how the news should sound",
     imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/16fbf9bd-d800-42bc-ac95-d5a586447bf6",
+      "https://i.ytimg.com/pl_c/PLzKJi2GjpkEE8hyFgMt0pIjnYkGB2YpDt/studio_square_thumbnail.jpg?sqp=CLGsuL0G-oaymwEICPABEPABSFqi85f_AwYI7uTnowY=&rs=AOn4CLCjwNndFDirw5UJPdlD1XwCRBzaPg",
   },
   {
     id: 3,
     title: "Waveform",
     description: "Join Michelle Obama in conversation",
     imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/60f0c1d9-f2ac-4a96-9178-f01d78fa3733",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Waveform_Podcast.jpg/330px-Waveform_Podcast.jpg",
   },
   {
     id: 4,
     title: "The Tech Talks Daily Podcast",
     description: "This is how the news should sound",
     imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/5ba7ed1b-88b4-4c32-8d71-270f1c502445",
+      "https://i.ytimg.com/pl_c/PLzV27Lk9roP4l6eOQyTwucOzZMJvEfr1m/studio_square_thumbnail.jpg?sqp=CKiLuL0G-oaymwEICOADEOADSFqi85f_AwYI97KzvQY=&rs=AOn4CLBHumsR13CyScD0YYdd5bqPHFr8Vg",
   },
   {
     id: 5,
     title: "GaryVee Audio Experience",
     description: "A long form, in-depth conversation",
     imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/ca7cb1a6-4919-4b2c-a73e-279a79ac6d23",
+      "https://i.ytimg.com/pl_c/PLfA33-E9P7FDY6CeNYXoh7L7tkA0aFFVV/studio_square_thumbnail.jpg?sqp=CKenuL0G-oaymwEICNAFENAFSFqi85f_AwYI147oogY=&rs=AOn4CLBE2WvwVoKJlkszDKFfDuLc0bHiyw",
   },
   {
     id: 6,
     title: "Syntax ",
     description: "Join Michelle Obama in conversation",
     imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/b8ea40c7-aafb-401a-9129-73c515a73ab5",
+      "https://i.ytimg.com/pl_c/PLLnpHn493BHHNUfHN5lDf11UD8jQ5Bpzl/studio_square_thumbnail.jpg?sqp=CI6IuL0G-oaymwEICOADEOADSFqi85f_AwYI0oO7rQY=&rs=AOn4CLCbvLXvpOpu8G8AKMFy78vX1edZCA",
   },
   {
     id: 7,
     title: "IMPAULSIVE",
     description: "A long form, in-depth conversation",
     imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/8a55d662-fe3f-4bcf-b78b-3b2f3d3def5c",
+      "https://yt3.googleusercontent.com/pDr2dhGVUmKX8LErWJHTdWMfsTA6fumfYrkchSHyd9p7UZX9ueH-2ZOtCgzP7LRtK76HW0lFWA=s160-c-k-c0x00ffffff-no-rj",
   },
   {
     id: 8,
     title: "Ted Tech",
     description: "This is how the news should sound",
     imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/221ee4bd-435f-42c3-8e98-4a001e0d806e",
+      "https://i.ytimg.com/pl_c/PLAWu34VO7OtIOAdU7Ss9Uq43Xc2r2yDPF/studio_square_thumbnail.jpg?sqp=CICuuL0G-oaymwEICNAFENAFSFqi85f_AwYI6oHuoAY=&rs=AOn4CLD5GoCquulWZRcRVeO83eQhpHr9cQ",
   },
 ];
