@@ -48,7 +48,6 @@ const ProfilePage = ({
                   imgUrl={podcast.imageUrl!}
                   title={podcast.podcastTitle!}
                   description={podcast.podcastDescription}
-                  podcastId={podcast._id}
                 />
               ))}
           </div>
